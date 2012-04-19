@@ -1,0 +1,1713 @@
+2012/04/19 10:33:18 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:18 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:18 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:18 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:33:18 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:33:18 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:18 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:18 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:18 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (98)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (251)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:18 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY root,lft
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (98)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (251)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:18 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:18 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:18 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:18 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:33:18 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:33:18 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:18 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:18 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:18 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (98)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (251)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:18 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY root,lft
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (98)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (251)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:19 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:19 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:19 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:19 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:33:19 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:33:19 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:19 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (301)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:19 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (301)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (301)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (301)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:20 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\_form.php (81)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (307)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:20 [trace] [system.CModule] Loading "messages" application component
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (72)
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (100)
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (165)
+2012/04/19 10:33:20 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\_form.php (105)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (307)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:20 [trace] [system.db.ar.CActiveRecord] lazy loading Classroom.students
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (79)
+in C:\xampp\htdocs\Cody\protected\views\classroom\_form.php (115)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (307)
+2012/04/19 10:33:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `student`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseStudent.php (25)
+in C:\xampp\htdocs\Cody\protected\models\Student.php (24)
+2012/04/19 10:33:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `student`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseStudent.php (25)
+in C:\xampp\htdocs\Cody\protected\models\Student.php (24)
+2012/04/19 10:33:20 [trace] [system.db.ar.CActiveRecord] Student.findAll()
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (248)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (81)
+in C:\xampp\htdocs\Cody\protected\views\classroom\_form.php (115)
+2012/04/19 10:33:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT id, name FROM `student` `t`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (248)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (81)
+in C:\xampp\htdocs\Cody\protected\views\classroom\_form.php (115)
+2012/04/19 10:33:20 [trace] [system.db.ar.CActiveRecord] lazy loading Classroom.students
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (79)
+in C:\xampp\htdocs\Cody\protected\views\classroom\_form.php (139)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (307)
+2012/04/19 10:33:20 [trace] [system.db.ar.CActiveRecord] Student.findAll()
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (248)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (81)
+in C:\xampp\htdocs\Cody\protected\views\classroom\_form.php (139)
+2012/04/19 10:33:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT id, name FROM `student` `t`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (248)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (81)
+in C:\xampp\htdocs\Cody\protected\views\classroom\_form.php (139)
+2012/04/19 10:33:25 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:25 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:25 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:25 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:33:25 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:33:25 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:25 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:25 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:25 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (98)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (251)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:25 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY root,lft
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (98)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (251)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:53 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:53 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:53 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:53 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:33:53 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:33:53 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:53 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:53 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:54 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY lft
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (13)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.db.ar.CActiveRecord] Classroom.findByPk()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` WHERE `t`.`id`='all' LIMIT 1
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.db.ar.CActiveRecord] Student.count()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `student` `t`
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.db.ar.CActiveRecord] Student.findAll()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `student` `t` LIMIT 10
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.base.CModule] Loading "user" module
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+2012/04/19 10:33:54 [trace] [system.CModule] Loading "messages" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (141)
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+2012/04/19 10:33:54 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:33:54 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:33:54 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:54 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:54 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:55 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (98)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (251)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY root,lft
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (98)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (251)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:57 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:57 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:57 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:57 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:33:57 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:33:57 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:57 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:57 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:33:58 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY lft
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:58 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (13)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:58 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:58 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:58 [trace] [system.db.ar.CActiveRecord] Classroom.findByPk()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` WHERE `t`.`id`='all' LIMIT 1
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:58 [trace] [system.db.ar.CActiveRecord] Student.count()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `student` `t`
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:58 [trace] [system.db.ar.CActiveRecord] Student.findAll()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `student` `t` LIMIT 10
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:58 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:33:58 [trace] [system.base.CModule] Loading "user" module
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+2012/04/19 10:33:58 [trace] [system.CModule] Loading "messages" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (141)
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+2012/04/19 10:34:01 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:34:01 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:34:01 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:01 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:01 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY lft
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (13)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.db.ar.CActiveRecord] Classroom.findByPk()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` WHERE `t`.`id`='all' LIMIT 1
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.db.ar.CActiveRecord] Student.count()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `student` `t`
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.db.ar.CActiveRecord] Student.findAll()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `student` `t` LIMIT 10
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:01 [trace] [system.base.CModule] Loading "user" module
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+2012/04/19 10:34:01 [trace] [system.CModule] Loading "messages" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (141)
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+2012/04/19 10:34:02 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:02 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:02 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:02 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:34:02 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:34:02 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:02 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:02 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:03 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY lft
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:03 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (13)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:03 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:03 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:03 [trace] [system.db.ar.CActiveRecord] Classroom.findByPk()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` WHERE `t`.`id`='all' LIMIT 1
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:03 [trace] [system.db.ar.CActiveRecord] Student.count()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `student` `t`
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:03 [trace] [system.db.ar.CActiveRecord] Student.findAll()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `student` `t` LIMIT 10
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:03 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:03 [trace] [system.base.CModule] Loading "user" module
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+2012/04/19 10:34:03 [trace] [system.CModule] Loading "messages" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (141)
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+2012/04/19 10:34:04 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:04 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:04 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:04 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:34:04 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:34:04 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:04 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:04 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:05 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY lft
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (13)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.db.ar.CActiveRecord] Classroom.findByPk()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` WHERE `t`.`id`='all' LIMIT 1
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.db.ar.CActiveRecord] Student.count()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `student` `t`
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.db.ar.CActiveRecord] Student.findAll()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `student` `t` LIMIT 10
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.base.CModule] Loading "user" module
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+2012/04/19 10:34:05 [trace] [system.CModule] Loading "messages" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (141)
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+2012/04/19 10:34:05 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:34:05 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:34:05 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:05 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:05 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:06 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (98)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (251)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:06 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY root,lft
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (98)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (251)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\controllers\StudentController.php (121)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\controllers\StudentController.php (121)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `student`
+in C:\xampp\htdocs\Cody\protected\controllers\StudentController.php (121)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `student`
+in C:\xampp\htdocs\Cody\protected\controllers\StudentController.php (121)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\Cody\protected\views\student\_form.php (78)
+in C:\xampp\htdocs\Cody\protected\controllers\StudentController.php (126)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "messages" application component
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseStudent.php (68)
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (100)
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (165)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\student\_form.php (96)
+in C:\xampp\htdocs\Cody\protected\controllers\StudentController.php (126)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.db.ar.CActiveRecord] lazy loading Student.assignments
+in C:\xampp\htdocs\Cody\protected\controllers\StudentController.php (91)
+in C:\xampp\htdocs\Cody\protected\views\student\_form.php (164)
+in C:\xampp\htdocs\Cody\protected\controllers\StudentController.php (126)
+2012/04/19 10:34:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `assignment`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseAssignment.php (24)
+in C:\xampp\htdocs\Cody\protected\models\Assignment.php (8)
+2012/04/19 10:34:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `assignment`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseAssignment.php (24)
+in C:\xampp\htdocs\Cody\protected\models\Assignment.php (8)
+2012/04/19 10:34:07 [trace] [system.db.ar.CActiveRecord] Assignment.findAll()
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (248)
+in C:\xampp\htdocs\Cody\protected\controllers\StudentController.php (93)
+in C:\xampp\htdocs\Cody\protected\views\student\_form.php (164)
+2012/04/19 10:34:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT id, name FROM `assignment` `t`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (248)
+in C:\xampp\htdocs\Cody\protected\controllers\StudentController.php (93)
+in C:\xampp\htdocs\Cody\protected\views\student\_form.php (164)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:07 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:07 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY lft
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (13)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.db.ar.CActiveRecord] Classroom.findByPk()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` WHERE `t`.`id`='all' LIMIT 1
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.db.ar.CActiveRecord] Student.count()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `student` `t`
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.db.ar.CActiveRecord] Student.findAll()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `student` `t` LIMIT 10
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:07 [trace] [system.base.CModule] Loading "user" module
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+2012/04/19 10:34:07 [trace] [system.CModule] Loading "messages" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (141)
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+2012/04/19 10:34:11 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:34:11 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:34:11 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:11 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:34:11 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY lft
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (13)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.db.ar.CActiveRecord] Classroom.findByPk()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` WHERE `t`.`id`='all' LIMIT 1
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.db.ar.CActiveRecord] Student.count()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `student` `t`
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.db.ar.CActiveRecord] Student.findAll()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `student` `t` LIMIT 10
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:34:11 [trace] [system.base.CModule] Loading "user" module
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+2012/04/19 10:34:11 [trace] [system.CModule] Loading "messages" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (141)
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+2012/04/19 10:35:31 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:31 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:31 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:31 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:35:31 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:35:31 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:31 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:35:31 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:35:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:35:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:35:32 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY lft
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (13)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.db.ar.CActiveRecord] Classroom.findByPk()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` WHERE `t`.`id`='all' LIMIT 1
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.db.ar.CActiveRecord] Student.count()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `student` `t`
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.db.ar.CActiveRecord] Student.findAll()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `student` `t` LIMIT 10
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.base.CModule] Loading "user" module
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+2012/04/19 10:35:32 [trace] [system.CModule] Loading "messages" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (141)
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+2012/04/19 10:35:32 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:35:32 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 10:35:32 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:32 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:35:32 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:35:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:35:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 10:35:33 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (98)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (251)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 10:35:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY root,lft
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (98)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (251)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:20 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:20 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:20 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:20 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:00:20 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:00:21 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:21 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 11:00:21 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 11:00:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 11:00:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 11:00:21 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY lft
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (188)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `student`
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (208)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (104)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:21 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (13)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:21 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:21 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:21 [trace] [system.db.ar.CActiveRecord] Classroom.findByPk()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` WHERE `t`.`id`='all' LIMIT 1
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (110)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:21 [trace] [system.db.ar.CActiveRecord] Student.count()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `student` `t`
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:21 [trace] [system.db.ar.CActiveRecord] Student.findAll()
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `student` `t` LIMIT 10
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:21 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\classroom\admin_list.php (121)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:21 [trace] [system.base.CModule] Loading "user" module
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (113)
+2012/04/19 11:00:21 [trace] [system.CModule] Loading "messages" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (141)
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column2.php (21)
+2012/04/19 11:00:22 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:22 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:22 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:22 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:00:22 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:00:22 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:22 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 11:00:22 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 11:00:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 11:00:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `classroom`
+in C:\xampp\htdocs\Cody\protected\extensions\giix-components\GxActiveRecord.php (26)
+in C:\xampp\htdocs\Cody\protected\models\_base\BaseClassroom.php (26)
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (27)
+2012/04/19 11:00:22 [trace] [system.db.ar.CActiveRecord] Classroom.findAll()
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (98)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (251)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:00:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `classroom` `t` ORDER BY root,lft
+in C:\xampp\htdocs\Cody\protected\models\Classroom.php (98)
+in C:\xampp\htdocs\Cody\protected\controllers\ClassroomController.php (251)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:20 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:20 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:20 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:20 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:16:20 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:16:20 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:20 [trace] [system.base.CModule] Loading "user" module
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:20 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (97)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (16)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:20 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (97)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (16)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:20 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\models\User.php (28)
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (226)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (98)
+2012/04/19 11:16:20 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\modules\user\models\User.php (28)
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (226)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (98)
+2012/04/19 11:16:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in C:\xampp\htdocs\Cody\protected\modules\user\models\User.php (28)
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (226)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (98)
+2012/04/19 11:16:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in C:\xampp\htdocs\Cody\protected\modules\user\models\User.php (28)
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (226)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (98)
+2012/04/19 11:16:20 [trace] [system.db.ar.CActiveRecord] User.findByPk()
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (226)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (98)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (16)
+2012/04/19 11:16:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT id, username, email, createtime, lastvisit, superuser, status FROM `users` `t` WHERE (status=1) AND (`t`.`id`=3) LIMIT 1
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (226)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (98)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (16)
+2012/04/19 11:16:20 [trace] [system.db.ar.CActiveRecord] lazy loading User.profile
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (19)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `profiles`
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (19)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `profiles`
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (19)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT `profile`.`user_id` AS `t1_c0`, `profile`.`lastname` AS `t1_c1`, `profile`.`firstname` AS `t1_c2`, `profile`.`birthday` AS `t1_c3` FROM `profiles` `profile`  WHERE (`profile`.`user_id`=:ypl0)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (19)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:20 [trace] [system.CModule] Loading "messages" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (141)
+in C:\xampp\htdocs\Cody\protected\modules\user\views\profile\profile.php (1)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (20)
+2012/04/19 11:16:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `profiles_fields`
+in C:\xampp\htdocs\Cody\protected\modules\user\models\ProfileField.php (39)
+in C:\xampp\htdocs\Cody\protected\modules\user\views\profile\profile.php (21)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (20)
+2012/04/19 11:16:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `profiles_fields`
+in C:\xampp\htdocs\Cody\protected\modules\user\models\ProfileField.php (39)
+in C:\xampp\htdocs\Cody\protected\modules\user\views\profile\profile.php (21)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (20)
+2012/04/19 11:16:20 [trace] [system.db.ar.CActiveRecord] ProfileField.findAll()
+in C:\xampp\htdocs\Cody\protected\modules\user\views\profile\profile.php (21)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (20)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `profiles_fields` `t` WHERE visible>=1 ORDER BY position
+in C:\xampp\htdocs\Cody\protected\modules\user\views\profile\profile.php (21)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (20)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:20 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\Cody\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (20)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:20 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (45)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column1.php (5)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (20)
+2012/04/19 11:16:21 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:21 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:21 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:21 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:16:21 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:16:21 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:21 [trace] [system.base.CModule] Loading "rights" module
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:21 [trace] [system.CModule] Loading "authorizer" application component
+in C:\xampp\htdocs\Cody\protected\modules\rights\RightsModule.php (192)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (21)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:21 [trace] [system.CModule] Loading "authManager" application component
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\RAuthorizer.php (27)
+in C:\xampp\htdocs\Cody\protected\modules\rights\RightsModule.php (192)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (21)
+2012/04/19 11:16:21 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\RAuthorizer.php (27)
+in C:\xampp\htdocs\Cody\protected\modules\rights\RightsModule.php (192)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (21)
+2012/04/19 11:16:21 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\RAuthorizer.php (27)
+in C:\xampp\htdocs\Cody\protected\modules\rights\RightsModule.php (192)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (21)
+2012/04/19 11:16:22 [trace] [system.web.filters.CFilterChain] Running filter AssignmentController.filteraccessControl()
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM AuthAssignment WHERE itemname=:itemname
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\RDbAuthManager.php (247)
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\RAuthorizer.php (285)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (51)
+2012/04/19 11:16:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\RAuthorizer.php (295)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (51)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\RAuthorizer.php (295)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (51)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:22 [trace] [system.db.ar.CActiveRecord] Users.findAll()
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\RAuthorizer.php (295)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (51)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE id IN (:ycp0, :ycp1, :ycp2)
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\RAuthorizer.php (295)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (51)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:22 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:22 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:22 [trace] [system.CModule] Loading "messages" application component
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\Rights.php (304)
+in C:\xampp\htdocs\Cody\protected\modules\rights\views\assignment\view.php (3)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (74)
+2012/04/19 11:16:22 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\Cody\protected\modules\rights\views\assignment\view.php (49)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (74)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:22 [trace] [system.db.ar.CActiveRecord] Users.count()
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\dataproviders\RAssignmentDataProvider.php (30)
+in C:\xampp\htdocs\Cody\protected\modules\rights\views\assignment\view.php (49)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (74)
+2012/04/19 11:16:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `users` `t`
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\dataproviders\RAssignmentDataProvider.php (30)
+in C:\xampp\htdocs\Cody\protected\modules\rights\views\assignment\view.php (49)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (74)
+2012/04/19 11:16:22 [trace] [system.db.ar.CActiveRecord] Users.findAll()
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\dataproviders\RAssignmentDataProvider.php (30)
+in C:\xampp\htdocs\Cody\protected\modules\rights\views\assignment\view.php (49)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (74)
+2012/04/19 11:16:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` LIMIT 50
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\dataproviders\RAssignmentDataProvider.php (30)
+in C:\xampp\htdocs\Cody\protected\modules\rights\views\assignment\view.php (49)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (74)
+2012/04/19 11:16:22 [trace] [system.CModule] Loading "format" application component
+in C:\xampp\htdocs\Cody\protected\modules\rights\views\assignment\view.php (49)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (74)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthAssignment`
+WHERE userid=:userid
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\behaviors\RUserBehavior.php (91)
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\behaviors\RUserBehavior.php (65)
+in C:\xampp\htdocs\Cody\protected\modules\rights\views\assignment\view.php (49)
+2012/04/19 11:16:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT name,t1.type,description,t1.bizrule,t1.data,weight
+					FROM AuthItem t1
+					LEFT JOIN Rights t2 ON name=itemname
+					ORDER BY t1.type DESC, weight ASC
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\RDbAuthManager.php (169)
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\RDbAuthManager.php (93)
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\behaviors\RUserBehavior.php (92)
+2012/04/19 11:16:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthAssignment`
+WHERE userid=:userid
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\behaviors\RUserBehavior.php (91)
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\behaviors\RUserBehavior.php (65)
+in C:\xampp\htdocs\Cody\protected\modules\rights\views\assignment\view.php (49)
+2012/04/19 11:16:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthAssignment`
+WHERE userid=:userid
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\behaviors\RUserBehavior.php (91)
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\behaviors\RUserBehavior.php (65)
+in C:\xampp\htdocs\Cody\protected\modules\rights\views\assignment\view.php (49)
+2012/04/19 11:16:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthAssignment`
+WHERE userid=:userid
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\behaviors\RUserBehavior.php (91)
+in C:\xampp\htdocs\Cody\protected\modules\rights\components\behaviors\RUserBehavior.php (65)
+in C:\xampp\htdocs\Cody\protected\modules\rights\views\assignment\view.php (49)
+2012/04/19 11:16:22 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\modules\rights\views\assignment\view.php (49)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (74)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:22 [trace] [system.base.CModule] Loading "user" module
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\Cody\protected\modules\rights\views\layouts\main.php (25)
+in C:\xampp\htdocs\Cody\protected\modules\rights\controllers\AssignmentController.php (74)
+2012/04/19 11:16:23 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:23 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:23 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:23 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:16:23 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:16:23 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:23 [trace] [system.base.CModule] Loading "user" module
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:23 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (97)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (16)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:23 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (97)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (16)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:23 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\models\User.php (28)
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (226)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (98)
+2012/04/19 11:16:23 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\Cody\protected\modules\user\models\User.php (28)
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (226)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (98)
+2012/04/19 11:16:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in C:\xampp\htdocs\Cody\protected\modules\user\models\User.php (28)
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (226)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (98)
+2012/04/19 11:16:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in C:\xampp\htdocs\Cody\protected\modules\user\models\User.php (28)
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (226)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (98)
+2012/04/19 11:16:24 [trace] [system.db.ar.CActiveRecord] User.findByPk()
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (226)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (98)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (16)
+2012/04/19 11:16:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT id, username, email, createtime, lastvisit, superuser, status FROM `users` `t` WHERE (status=1) AND (`t`.`id`=3) LIMIT 1
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (226)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (98)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (16)
+2012/04/19 11:16:24 [trace] [system.db.ar.CActiveRecord] lazy loading User.profile
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (19)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `profiles`
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (19)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `profiles`
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (19)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT `profile`.`user_id` AS `t1_c0`, `profile`.`lastname` AS `t1_c1`, `profile`.`firstname` AS `t1_c2`, `profile`.`birthday` AS `t1_c3` FROM `profiles` `profile`  WHERE (`profile`.`user_id`=:ypl0)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (19)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:24 [trace] [system.CModule] Loading "messages" application component
+in C:\xampp\htdocs\Cody\protected\modules\user\UserModule.php (141)
+in C:\xampp\htdocs\Cody\protected\modules\user\views\profile\profile.php (1)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (20)
+2012/04/19 11:16:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `profiles_fields`
+in C:\xampp\htdocs\Cody\protected\modules\user\models\ProfileField.php (39)
+in C:\xampp\htdocs\Cody\protected\modules\user\views\profile\profile.php (21)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (20)
+2012/04/19 11:16:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `profiles_fields`
+in C:\xampp\htdocs\Cody\protected\modules\user\models\ProfileField.php (39)
+in C:\xampp\htdocs\Cody\protected\modules\user\views\profile\profile.php (21)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (20)
+2012/04/19 11:16:24 [trace] [system.db.ar.CActiveRecord] ProfileField.findAll()
+in C:\xampp\htdocs\Cody\protected\modules\user\views\profile\profile.php (21)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (20)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `profiles_fields` `t` WHERE visible>=1 ORDER BY position
+in C:\xampp\htdocs\Cody\protected\modules\user\views\profile\profile.php (21)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (20)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:24 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\Cody\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (20)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:24 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\layouts\main.php (45)
+in C:\xampp\htdocs\Cody\protected\views\layouts\column1.php (5)
+in C:\xampp\htdocs\Cody\protected\modules\user\controllers\ProfileController.php (20)
+2012/04/19 11:16:32 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:32 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:32 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:32 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:16:32 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:16:32 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:32 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\layouts\main3.php (33)
+in C:\xampp\htdocs\Cody\protected\controllers\SiteController.php (33)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:59 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:59 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:59 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:59 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:16:59 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:16:59 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:16:59 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\layouts\main3.php (33)
+in C:\xampp\htdocs\Cody\protected\controllers\SiteController.php (33)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:17:01 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:17:01 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:17:01 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:17:01 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:17:01 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:17:01 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:17:01 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\layouts\main3.php (33)
+in C:\xampp\htdocs\Cody\protected\controllers\SiteController.php (33)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:17:17 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:17:17 [trace] [system.CModule] Loading "bootstrap" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:17:17 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:17:17 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:17:17 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (371)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (85)
+in C:\xampp\htdocs\Cody\protected\extensions\bootstrap\components\Bootstrap.php (69)
+2012/04/19 11:17:17 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\Cody\index.php (13)
+2012/04/19 11:17:17 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\Cody\protected\views\layouts\main3.php (33)
+in C:\xampp\htdocs\Cody\protected\controllers\SiteController.php (33)
+in C:\xampp\htdocs\Cody\index.php (13)
